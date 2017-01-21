@@ -25,7 +25,7 @@ SECRET_KEY = '5_(k(h4pcm6_kbuaksm@+=sz(%#eb8p@=db9#9yhu2aab9%^=p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [] #'http://samaratesting.pythonanywhere.com/'
 
 
 # Application definition
